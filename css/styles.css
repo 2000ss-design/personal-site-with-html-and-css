@@ -1,0 +1,180 @@
+body{
+  color:#40514E;
+  margin: 0;
+  text-align : center;
+  font-family: 'Merriweather', serif;
+
+}
+p{
+  line-height: 2;
+}
+.a{
+  font-weight: normal;
+}
+.top-container{
+  background-color: #d4f8e8;
+  position: relative;
+  padding-top:  100px;
+}
+.middle-container{
+margin: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto;
+  text-align: left;
+
+}
+
+h1{
+  /*font-size:90px;*/
+    /*100%=16px*/
+    color: #66BFBF;
+      font-size:5.625rem;
+
+  font-family: 'Sacramento', cursive;
+    /*width:30%;
+    margin: 0 auto;*/
+}
+h2{
+  color: #66BFBF;
+  margin-top: 50px auto 0 auto;/* for distance lesser b/w h1 and h2*/
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.hi{
+  width: 30%;
+  margin: auto;
+}
+.Web {
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  bottom: 300px;
+}
+.web-development{
+  width: 25%;
+  float :left;
+  margin-right: 30px;
+}
+.web-designing{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+
+}
+.programming{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+
+}
+.internet-of-things{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.btn{
+  color:#11999E;
+}
+.footer-link-1{
+      color:#11999E;
+}
+.footer-link-2{
+        color:#11999E;
+}
+.footer-link-3{
+          color:#11999E;
+}
+.footer-link-4{
+        color:#11999E;
+}
+.linkedin{
+  width:90px;
+  margin-left: 20px;
+}
+.twitter{
+  width:90px;
+  margin-left: 20px;
+}
+.facebook{
+  width:90px;
+  margin-left: 20px;
+}
+.fiverr{
+  width:100px;
+  margin-left: 20px;
+}
+.google{
+  width:100px;
+}
+.copyright{
+  color: #EAF6F6;
+padding: 20px 0;
+}
+.hr1{
+    border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 4%;
+      margin: 100px auto;
+}
+.hr2{
+  border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+      margin: 100px auto;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+	background-color:#11999e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.a{
+  text-decoration: none;
+}
+.a:hover{
+  color: #EAF6F6;
+}
